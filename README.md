@@ -2,7 +2,7 @@
 
 This is my parser for educational purposes
 
-![some image](image.png)
+![some image](./assets/image.png)
 
 ### Example
 
